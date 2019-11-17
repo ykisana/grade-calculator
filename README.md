@@ -1,1 +1,2 @@
-# grade-calculator
+# Grade Calculator
+Simple Python Script to Calculate Weighted Grades
